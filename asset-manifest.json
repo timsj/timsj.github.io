@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.268f93c0.css",
-    "main.js": "/static/js/main.8c764a8f.js",
+    "main.js": "/static/js/main.5d4edb52.js",
     "static/media/wiki.png": "/static/media/wiki.32a82d1194b5ce158ec8.png",
     "static/media/stream-map.png": "/static/media/stream-map.c86b62cdc3d0ef300364.png",
     "static/media/druid.jpeg": "/static/media/druid.d647a74f71dc8aeef086.jpeg",
@@ -9,10 +9,10 @@
     "static/media/pocket-calc.png": "/static/media/pocket-calc.badf527c685163c29025.png",
     "index.html": "/index.html",
     "main.268f93c0.css.map": "/static/css/main.268f93c0.css.map",
-    "main.8c764a8f.js.map": "/static/js/main.8c764a8f.js.map"
+    "main.5d4edb52.js.map": "/static/js/main.5d4edb52.js.map"
   },
   "entrypoints": [
     "static/css/main.268f93c0.css",
-    "static/js/main.8c764a8f.js"
+    "static/js/main.5d4edb52.js"
   ]
 }
