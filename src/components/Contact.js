@@ -7,8 +7,8 @@ const Contact = () => {
       <ul>
         <li>
           <h4>
-            <a className="contact" href="mailto:timsjdev@gmail.com">
-              <IoIosMail /> &nbsp;&nbsp;timsjdev@gmail.com
+            <a className="contact" href="mailto:me@timsj.net">
+              <IoIosMail /> &nbsp;&nbsp;me@timsj.net
             </a>
           </h4>
         </li>
